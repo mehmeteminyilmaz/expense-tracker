@@ -3,19 +3,28 @@ Harcamalarınızı kolayca yönetmenizi, kategorize etmenizi ve bütçenizi kont
 
 ✨ Özellikler
 Harcama Yönetimi: Yeni harcama ekleme, mevcut harcamaları düzenleme veya silme (CRUD).
+
 Kategorizasyon: Harcamaları Yemek, Ulaşım, Eğlence, Alışveriş gibi kategorilere ayırma.
+
 Filtreleme: Belirli kategorilere göre harcamaları anlık olarak süzme.
+
 Veri Görselleştirme: Chart.js kütüphanesi ile haftalık veya aylık harcama dağılımını gösteren interaktif grafikler.
+
 Özet Paneli: Toplam harcama miktarını ve bütçe durumunu anlık görüntüleme.
+
 Gerçek Zamanlı Veri: Firebase entegrasyonu ile verilerin anlık senkronizasyonu.
 
 🚀 Kullanılan Teknolojiler
 Bu proje, modern web teknolojileri ve best-practice prensipleri kullanılarak geliştirilmiştir:
 
 Frontend: React.js
+
 Backend: Node.js & Express
+
 Veritabanı: Firebase (Firestore)
+
 Grafik: Chart.js
+
 Stil: CSS3 / Tailwind CSS 
 
 🛠️ Kurulum ve Çalıştırma
