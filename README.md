@@ -1,4 +1,4 @@
-📊 Expense Tracker (Harcama Takip Uygulaması)
+📊 Expense Tracker (Harcama Takip Uygulaması):
 Harcamalarınızı kolayca yönetmenizi, kategorize etmenizi ve bütçenizi kontrol altında tutmanızı sağlayan modern bir web uygulamasıdır. Kullanıcı dostu arayüzü sayesinde günlük finansal hareketlerinizi takip edebilir ve harcama alışkanlıklarınızı grafiklerle analiz edebilirsiniz.
 
 ✨ Özellikler
